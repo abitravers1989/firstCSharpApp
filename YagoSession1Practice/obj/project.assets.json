@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\ATravers\\source\\repos\\YagoSession1Practice\\YagoSession1Practice\\YagoSession1Practice.csproj",
+      "projectUniqueName": "C:\\dev\\YagoSession1Practice\\YagoSession1Practice\\YagoSession1Practice.csproj",
       "projectName": "YagoSession1Practice",
-      "projectPath": "C:\\Users\\ATravers\\source\\repos\\YagoSession1Practice\\YagoSession1Practice\\YagoSession1Practice.csproj",
+      "projectPath": "C:\\dev\\YagoSession1Practice\\YagoSession1Practice\\YagoSession1Practice.csproj",
       "packagesPath": "C:\\Users\\ATravers\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ATravers\\source\\repos\\YagoSession1Practice\\YagoSession1Practice\\obj\\",
+      "outputPath": "C:\\dev\\YagoSession1Practice\\YagoSession1Practice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
