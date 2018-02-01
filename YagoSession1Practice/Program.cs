@@ -17,9 +17,7 @@ namespace YagoSession1Practice
             firstq.AskQuestion();
             string answerInput = Console.ReadLine();
 
-            Console.WriteLine("Your Answer is:" + answerInput);
-
-           // firstq.OutputAnswer(answerInput);
+           firstq.OutputAnswer(answerInput);
 
             Console.ReadLine();
         }

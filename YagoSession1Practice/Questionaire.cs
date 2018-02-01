@@ -19,6 +19,12 @@ namespace YagoSession1Practice
         {
             Console.WriteLine("Your Question is:" + Question);
         }
+
+        public void OutputAnswer(string answer)
+        {
+            Console.WriteLine("Your Answer is:" + answer);
+        }
+        
     }
 }
 
