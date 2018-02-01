@@ -11,6 +11,16 @@ namespace YagoSession1Practice
 
             first.DescribeMe();
             second.DescribeMe();
+            
+            Questionaire firstq = new Questionaire("How are you?");
+
+            firstq.AskQuestion();
+            string answerInput = Console.ReadLine();
+
+            Console.WriteLine("Your Answer is:" + answerInput);
+
+           // firstq.OutputAnswer(answerInput);
+
             Console.ReadLine();
         }
     }

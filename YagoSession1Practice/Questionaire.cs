@@ -17,7 +17,7 @@ namespace YagoSession1Practice
 
         public void AskQuestion()
         {
-            Console.WriteLine("Your Question is:" + question)
+            Console.WriteLine("Your Question is:" + Question);
         }
     }
 }
