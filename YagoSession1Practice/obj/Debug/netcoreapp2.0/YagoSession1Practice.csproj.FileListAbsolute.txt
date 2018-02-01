@@ -1,0 +1,11 @@
+C:\Users\ATravers\source\repos\YagoSession1Practice\YagoSession1Practice\obj\Debug\netcoreapp2.0\YagoSession1Practice.csprojResolveAssemblyReference.cache
+C:\Users\ATravers\source\repos\YagoSession1Practice\YagoSession1Practice\obj\Debug\netcoreapp2.0\YagoSession1Practice.csproj.CoreCompileInputs.cache
+C:\Users\ATravers\source\repos\YagoSession1Practice\YagoSession1Practice\obj\Debug\netcoreapp2.0\YagoSession1Practice.AssemblyInfoInputs.cache
+C:\Users\ATravers\source\repos\YagoSession1Practice\YagoSession1Practice\obj\Debug\netcoreapp2.0\YagoSession1Practice.AssemblyInfo.cs
+C:\Users\ATravers\source\repos\YagoSession1Practice\YagoSession1Practice\bin\Debug\netcoreapp2.0\YagoSession1Practice.deps.json
+C:\Users\ATravers\source\repos\YagoSession1Practice\YagoSession1Practice\bin\Debug\netcoreapp2.0\YagoSession1Practice.runtimeconfig.json
+C:\Users\ATravers\source\repos\YagoSession1Practice\YagoSession1Practice\bin\Debug\netcoreapp2.0\YagoSession1Practice.runtimeconfig.dev.json
+C:\Users\ATravers\source\repos\YagoSession1Practice\YagoSession1Practice\bin\Debug\netcoreapp2.0\YagoSession1Practice.dll
+C:\Users\ATravers\source\repos\YagoSession1Practice\YagoSession1Practice\bin\Debug\netcoreapp2.0\YagoSession1Practice.pdb
+C:\Users\ATravers\source\repos\YagoSession1Practice\YagoSession1Practice\obj\Debug\netcoreapp2.0\YagoSession1Practice.dll
+C:\Users\ATravers\source\repos\YagoSession1Practice\YagoSession1Practice\obj\Debug\netcoreapp2.0\YagoSession1Practice.pdb
