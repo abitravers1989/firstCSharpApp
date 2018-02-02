@@ -21,6 +21,7 @@ namespace YagoSession1Practice
         { }
 
         //cannot have this plus other default constructor which gives one default argument
+        //complier thinks it is the same thing as above .. because same name with same number of paramters, and type of paramter
         //public Animal(string name) : this("Moonpig", name)
        // { }
 
@@ -42,6 +43,11 @@ namespace YagoSession1Practice
         {
             this.AnimalType = value;
             Console.WriteLine("My type has now changed: I am  " + AnimalType + " I am a " + AnimalName);
+        }
+
+        public void StringTest(string parameter)
+        {
+           Console.WriteLine(parameter.IsNullOrWhiteSpace());
         }
 
     }

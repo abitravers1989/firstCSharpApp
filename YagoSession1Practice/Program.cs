@@ -17,13 +17,16 @@ namespace YagoSession1Practice
             //defaul.DescribeMe();
 
             first.ChangeValue("CHANGEDFROMCAT");
+            first.StringTest(null);
+            first.StringTest(string.Empty);
+
 
             //Questionaire firstq = new Questionaire("How are you?");
 
             //firstq.AskQuestion();
             //string answerInput = Console.ReadLine();
 
-          // firstq.OutputAnswer(answerInput);
+            // firstq.OutputAnswer(answerInput);
 
             Console.ReadLine();
         }
