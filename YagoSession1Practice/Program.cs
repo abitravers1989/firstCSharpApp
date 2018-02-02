@@ -19,6 +19,9 @@ namespace YagoSession1Practice
             first.ChangeValue("CHANGEDFROMCAT");
             first.StringTest(null);
             first.StringTest(string.Empty);
+            first.StringTest("ss");
+
+           
 
 
             //Questionaire firstq = new Questionaire("How are you?");

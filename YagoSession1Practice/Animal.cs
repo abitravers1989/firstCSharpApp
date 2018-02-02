@@ -47,7 +47,11 @@ namespace YagoSession1Practice
 
         public void StringTest(string parameter)
         {
-           Console.WriteLine(parameter.IsNullOrWhiteSpace());
+            if (parameter.IsNullOrWhiteSpace())
+            {
+                Console.WriteLine("The method is showing true");
+
+            }
         }
 
     }
