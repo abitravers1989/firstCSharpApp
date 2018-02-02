@@ -38,5 +38,11 @@ namespace YagoSession1Practice
             Console.WriteLine("I am  " + AnimalType + " I am a " + AnimalName);
         }
 
+        public void ChangeValue(string value)
+        {
+            this.AnimalType = value;
+            Console.WriteLine("My type has now changed: I am  " + AnimalType + " I am a " + AnimalName);
+        }
+
     }
 }

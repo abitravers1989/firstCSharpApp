@@ -7,21 +7,23 @@ namespace YagoSession1Practice
       public static void Main (string [] args)
         {
             Animal first = new Animal("cat", "poopie");
-            var second = new Animal("dog");
-            Animal third = new Animal("default3whichonewillitchose");
-            var defaul = new Animal();
+            //var second = new Animal("dog");
+            //Animal third = new Animal("default3whichonewillitchose");
+            //var defaul = new Animal();
 
             first.DescribeMe();
-            second.DescribeMe();
-            third.DescribeMe();
-            defaul.DescribeMe();
+            //second.DescribeMe();
+            //third.DescribeMe();
+            //defaul.DescribeMe();
 
-            Questionaire firstq = new Questionaire("How are you?");
+            first.ChangeValue("CHANGEDFROMCAT");
 
-            firstq.AskQuestion();
-            string answerInput = Console.ReadLine();
+            //Questionaire firstq = new Questionaire("How are you?");
 
-           firstq.OutputAnswer(answerInput);
+            //firstq.AskQuestion();
+            //string answerInput = Console.ReadLine();
+
+          // firstq.OutputAnswer(answerInput);
 
             Console.ReadLine();
         }
