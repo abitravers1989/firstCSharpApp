@@ -8,10 +8,14 @@ namespace YagoSession1Practice
         {
             Animal first = new Animal("cat", "poopie");
             var second = new Animal("dog");
+            Animal third = new Animal("default3whichonewillitchose");
+            var defaul = new Animal();
 
             first.DescribeMe();
             second.DescribeMe();
-            
+            third.DescribeMe();
+            defaul.DescribeMe();
+
             Questionaire firstq = new Questionaire("How are you?");
 
             firstq.AskQuestion();

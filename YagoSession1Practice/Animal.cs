@@ -20,6 +20,13 @@ namespace YagoSession1Practice
         public Animal(string type) : this(type, "John")
         { }
 
+        //cannot have this plus other default constructor which gives one default argument
+        //public Animal(string name) : this("Moonpig", name)
+       // { }
+
+        public Animal() : this("Snakes", "Penface")
+        { }
+
         private static void Opener()
         {
             Console.WriteLine("Calling the private opener");
